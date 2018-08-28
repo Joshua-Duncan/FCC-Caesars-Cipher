@@ -1,4 +1,5 @@
 # FCC Caesars Cipher
+```
 function rot13(str) { // LBH QVQ VG!
 
   //65-90 are uppercase letters, ignore everything else
@@ -32,3 +33,4 @@ function rot13(str) { // LBH QVQ VG!
   //console.log(convertedArray);
   return newString;
 }
+```
